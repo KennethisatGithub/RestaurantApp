@@ -1,6 +1,0 @@
-// default.json
-
-{
-    "mongoURI": "mongodb+srv://auth:auth@auth.4h46g.mongodb.net/auth?retryWrites=true&w=majority"
-  }
-/* Replace <password> with your database password */
